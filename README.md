@@ -4,6 +4,8 @@ My projects on Tableau wherein the data was queried from Big Query. Click [this 
 I queried 15GB+ data from Google Big Query and extracted the Google trends dataset for India from October 1st to October 17th to analyze the keywords that are searched on each of these 18 days. 
 
 Query utilized to extract the data is given in the screenshot below. 
+
+
 <img width="535" alt="SQL query" src="https://user-images.githubusercontent.com/111872963/196241818-a6075954-ec48-45d1-bfc9-893126e70bcb.png">
 
 ----
