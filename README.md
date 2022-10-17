@@ -1,5 +1,5 @@
 # Tableau-BigQuery
-My projects on Tableau wherein the data was queried from Big Query. Click [this url](https://public.tableau.com/app/profile/yash.saxena8821#!/) for my tableau public profile. 
+A project on Tableau wherein the data was queried from Big Query. Click [this url](https://public.tableau.com/app/profile/yash.saxena8821#!/) for my tableau public profile. 
 
 I queried 15GB+ data from Google Big Query and extracted the Google trends dataset for India from October 1st to October 17th to analyze the keywords that are searched on each of these 18 days. 
 
